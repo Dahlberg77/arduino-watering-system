@@ -1,0 +1,43 @@
+#######################################
+# Syntax Coloring Map For Test
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+
+LCDKeypad 	KEYWORD1
+Menu				KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+LCDKeypad						KEYWORD2
+wasButtonPressed		KEYWORD2
+wasButtonReleased		KEYWORD2
+write								KEYWORD2
+cleanLine						KEYWORD2	
+Test								KEYWORD2
+TestMenu						KEYWORD2
+ReadButtons					KEYWORD2
+IsInRange						KEYWORD2
+testMenu						KEYWORD2
+getButtonFromInputVolts KEYWORD2
+Menu			KEYWORD2
+next			KEYWORD2
+previous	KEYWORD2
+setStatus	KEYWORD2
+getTitle	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+lcd					KEYWORD5
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
