@@ -27,7 +27,7 @@ Menu::Menu()
 	titles[0] = "LIGHTS";
 	titles[1] = "WATER PUMP";
 	titles[2] = "FAN";
-	titles[3] = "MOISTER";
+	titles[3] = "HUMIDIFIER";
 
 	
 	resetStatus();

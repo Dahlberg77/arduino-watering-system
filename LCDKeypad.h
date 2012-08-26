@@ -1,6 +1,6 @@
 /*
   Test.h - Test library for Wiring - description
-  Copyright (c) 2006 John Doe.  All right reserved.
+  2012 Snake Sanders
 */
 
 // ensure this library description is only included once
