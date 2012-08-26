@@ -19,7 +19,7 @@
 #endif
 
 // this is a forward class declaration, 
-//I say what I'm going to need to have compiled before starting
+// I say what I'm going to need to have compiled before starting
 class LiquidCrystal;
 class Menu;
 

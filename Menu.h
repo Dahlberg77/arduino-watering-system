@@ -11,19 +11,6 @@
 	#include "Arduino.h"
 #endif
 
-// include types & constants of Wiring core API
-//#include "WConstants.h"
-/**
-#if defined(ARDUINO) && ARDUINO >= 100
-	#include "Arduino.h"
-#else
-	#include "WProgram.h"
-	#include "WConstants.h"
-#endif
-*/
-
-
-
 // library interface description
 class Menu
 {

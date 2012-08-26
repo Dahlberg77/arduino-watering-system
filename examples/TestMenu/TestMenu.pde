@@ -9,6 +9,7 @@
 #include <Menu.h>
 #include <LCDKeypad.h>
 
+// This sample file shows a menu on the LCD display and let you play with the buttons
 
 LCDKeypad lcd = LCDKeypad();
 
