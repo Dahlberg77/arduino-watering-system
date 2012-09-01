@@ -36,7 +36,9 @@ class LCDKeypad
 		void cleanLine(int line);
 		byte readButtons();
 		void test();
-		void testMenu();		
+		void testMenu();
+		void testRelays();
+
 
   // library-accessible "private" interface
   private:
@@ -77,6 +79,7 @@ class LCDKeypad
 		byte getButtonFromInputVolts();
 		boolean isButtonBouncing(byte button);
 		void updateScreen();
+		boolean refreshMenu();
 
 };
 
