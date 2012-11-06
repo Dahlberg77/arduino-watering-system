@@ -6,24 +6,26 @@
 # Datatypes (KEYWORD1)
 #######################################
 
+DHT11								KEYWORD1
+LCD									KEYWORD1
+LEDRGB							KEYWORD1
+Keypad							KEYWORD1
+Relay4							KEYWORD1
 
-LCDKeypad 	KEYWORD1
-Menu				KEYWORD1
 
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
-LCDKeypad						KEYWORD2
-wasButtonPressed		KEYWORD2
-wasButtonReleased		KEYWORD2
+was_button_pressed	KEYWORD2
+was_button_released	KEYWORD2
 write								KEYWORD2
 cleanLine						KEYWORD2	
 Test								KEYWORD2
 TestMenu						KEYWORD2
-ReadButtons					KEYWORD2
-IsInRange						KEYWORD2
+read_buttons				KEYWORD2
+is_in_range					KEYWORD2
 testMenu						KEYWORD2
 getButtonFromInputVolts KEYWORD2
 Menu			KEYWORD2
